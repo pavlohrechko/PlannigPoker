@@ -51,6 +51,18 @@
             <version>2.8.0</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.vaadin</groupId>
+            <artifactId>vaadin-core</artifactId>
+            <version>24.3.6</version>
+        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>com.vaadin</groupId>-->
+<!--            <artifactId>vaadin-flow</artifactId>-->
+<!--            <version>24.3.6</version>-->
+<!--        </dependency>-->
+
+
     </dependencies>
 
     <properties>

@@ -1,0 +1,1 @@
+package gcfv2.ui;import com.vaadin.flow.component.orderedlayout.VerticalLayout;import com.vaadin.flow.component.textfield.TextField;public class TicketUI extends VerticalLayout {    public TicketUI() {        VerticalLayout layout = new VerticalLayout();        TextField textField = new TextField("Tickets");    }}
