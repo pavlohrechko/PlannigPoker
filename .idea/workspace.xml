@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e462f513-935c-4e3e-8149-f28665a61c30" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2dEtaTG3k6fyMgOBf07jiL5ZccG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Initializer.executor": "Run",
+    "Application.Initialyzer.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.TicketDAO.executor": "Run",
+    "Application.TicketService.executor": "Run",
+    "Cloud Code: Cloud Run.Local.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.google.cloudcode.ide_session_index": "20240306_0000",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Education/CS/Spring/gitexample",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Education\CS\projetcs\crystalloids\PlanningPoker" />
+      <recent name="D:\Education\CS\projetcs\crystalloids\PlanningPoker\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cloud Code: Cloud Run.Local">
+    <configuration name="Initializer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.planning.datastore_api.Initializer" />
+      <module name="PlanningPoker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.planning.datastore_api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Development\jdk-17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.planning.datastore_api.Main" />
+      <module name="PlanningPoker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.planning.datastore_api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketDAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.planning.datastore_api.TicketDAO" />
+      <module name="PlanningPoker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.planning.datastore_api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="net.ashald.envfile">
+        <option name="IS_ENABLED" value="false" />
+        <option name="IS_SUBST" value="false" />
+        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
+        <option name="IS_IGNORE_MISSING_FILES" value="false" />
+        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
+        <ENTRIES>
+          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
+        </ENTRIES>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Local" type="CloudCodeCloudRunConfigurationType" factoryName="CloudCodeCloudRunDevelopConfigurationFactory" show_console_on_std_err="false" show_console_on_std_out="false" imageBuilder="{&quot;name&quot;:&quot;Buildpacks&quot;,&quot;payload&quot;:{&quot;path&quot;:&quot;pom.xml&quot;,&quot;builder&quot;:&quot;gcr.io/buildpacks/builder:v1&quot;}}">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="buildpacksEnv" />
+      <option name="cloudSqlConnections">
+        <list />
+      </option>
+      <option name="cpuAllocated" value="NO_LIMIT" />
+      <option name="dockerBuildArgs" />
+      <option name="dockerTarget" value="" />
+      <option name="environmentVariables" />
+      <option name="loadingAvailableBuilders" value="false" />
+      <option name="mappings">
+        <list />
+      </option>
+      <option name="memoryAllocated" value="MIB_256" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="serviceAccount" value="" />
+      <option name="serviceName" value="planningpoker" />
+      <option name="skaffoldWatchMode" value="ON_DEMAND" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.TicketDAO" />
+      <item itemvalue="Application.Initializer" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Cloud Code: Cloud Run.Local" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TicketDAO" />
+        <item itemvalue="Application.Initializer" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-f644763e9732-24fca987" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e462f513-935c-4e3e-8149-f28665a61c30" name="Changes" comment="" />
+      <created>1709585128849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709585128849</updated>
+      <workItem from="1709585130123" duration="1579000" />
+      <workItem from="1709586733893" duration="7722000" />
+      <workItem from="1709595483155" duration="44000" />
+      <workItem from="1709595836239" duration="325000" />
+      <workItem from="1709674324618" duration="4000" />
+      <workItem from="1709726928554" duration="626000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
