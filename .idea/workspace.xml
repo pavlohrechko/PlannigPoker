@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e462f513-935c-4e3e-8149-f28665a61c30" name="Changes" comment="date changed" />
+    <list default="true" id="e462f513-935c-4e3e-8149-f28665a61c30" name="Changes" comment="ui test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,7 +196,7 @@
       <workItem from="1709595836239" duration="325000" />
       <workItem from="1709674324618" duration="4000" />
       <workItem from="1709726928554" duration="4600000" />
-      <workItem from="1709732790803" duration="4565000" />
+      <workItem from="1709732790803" duration="4878000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -278,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709737233623</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ui test">
+      <option name="closed" value="true" />
+      <created>1709737542448</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709737542448</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -292,6 +300,7 @@
     <MESSAGE value="create ticket update" />
     <MESSAGE value="vadin ui" />
     <MESSAGE value="date changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="date changed" />
+    <MESSAGE value="ui test" />
+    <option name="LAST_COMMIT_MESSAGE" value="ui test" />
   </component>
 </project>
