@@ -1,0 +1,1 @@
+package gcfv2.rest_api;import lombok.AllArgsConstructor;import lombok.Data;import lombok.Getter;import lombok.Setter;@Data@AllArgsConstructor@Getter@Setterpublic class CreateTicketDTO {    private String subject;    private String description;}
