@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e462f513-935c-4e3e-8149-f28665a61c30" name="Changes" comment="ui test" />
+    <list default="true" id="e462f513-935c-4e3e-8149-f28665a61c30" name="Changes" comment="ui test">
+      <change afterPath="$PROJECT_DIR$/src/main/appengine/app.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,9 +47,10 @@
     "Cloud Code: Cloud Run.Local.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.google.cloudcode.ide_session_index": "20240306_0001",
+    "com.google.cloudcode.ide_session_index": "20240311_0001",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Education/CS/Spring/gitexample",
     "node.js.detected.package.eslint": "true",
@@ -196,7 +201,9 @@
       <workItem from="1709595836239" duration="325000" />
       <workItem from="1709674324618" duration="4000" />
       <workItem from="1709726928554" duration="4600000" />
-      <workItem from="1709732790803" duration="5463000" />
+      <workItem from="1709732790803" duration="5790000" />
+      <workItem from="1710151362349" duration="864000" />
+      <workItem from="1710152237031" duration="305000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -294,7 +301,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709737800680</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ui test">
+      <option name="closed" value="true" />
+      <created>1709738422709</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1709738422709</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
