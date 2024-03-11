@@ -7,7 +7,6 @@
     <groupId>org.planning</groupId>
     <artifactId>PlanningPoker</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>war</packaging>
 
     <dependencyManagement>
         <dependencies>
