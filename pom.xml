@@ -56,10 +56,24 @@
             <plugin>
                 <groupId>com.google.cloud.tools</groupId>
                 <artifactId>appengine-maven-plugin</artifactId>
-                <version>2.4.3</version> <!-- This version should match the intended version for the plugin, adjust if necessary -->
+                <version>2.4.3</version>
                 <configuration>
                     <projectId>GCLOUD_CONFIG</projectId>
                     <version>GCLOUD_CONFIG</version>
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>3.3.0</version> <!-- Use the latest version -->
+                <configuration>
+                    <archive>
+                        <manifest>
+                            <addClasspath>false</addClasspath>
+<!--                            <mainClass>package gcfv2.ui.TicketUI</mainClass> &lt;!&ndash; Replace with your main class &ndash;&gt;-->
+                        </manifest>
+                    </archive>
                 </configuration>
             </plugin>
         </plugins>
