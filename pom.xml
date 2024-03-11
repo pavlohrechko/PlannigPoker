@@ -58,8 +58,8 @@
                 <artifactId>appengine-maven-plugin</artifactId>
                 <version>2.4.3</version>
                 <configuration>
-                    <projectId>GCLOUD_CONFIG</projectId>
-                    <version>GCLOUD_CONFIG</version>
+                    <projectId>planningpoker-416220</projectId>
+                    <version>1</version>
                 </configuration>
             </plugin>
 
@@ -70,8 +70,8 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <addClasspath>false</addClasspath>
-<!--                            <mainClass>package gcfv2.ui.TicketUI</mainClass> &lt;!&ndash; Replace with your main class &ndash;&gt;-->
+                            <addClasspath>true</addClasspath>
+                            <mainClass>gcfv2.ui.TicketUI</mainClass> <!-- Replace with your main class -->
                         </manifest>
                     </archive>
                 </configuration>
