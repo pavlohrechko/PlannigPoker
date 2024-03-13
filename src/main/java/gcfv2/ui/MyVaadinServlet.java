@@ -1,0 +1,1 @@
+package gcfv2.ui;import com.vaadin.flow.server.VaadinServlet;import javax.servlet.annotation.WebServlet;@WebServlet(urlPatterns = "/*", name = "MyVaadinServlet", asyncSupported = true)public class MyVaadinServlet extends VaadinServlet {}
