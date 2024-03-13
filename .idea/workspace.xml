@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e462f513-935c-4e3e-8149-f28665a61c30" name="Changes" comment="ui test">
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gcfv2/ui/TicketUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gcfv2/ui/TicketUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +45,7 @@
     "Cloud Code: Cloud Run.Local.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.google.cloudcode.ide_session_index": "20240311_0001",
+    "com.google.cloudcode.ide_session_index": "20240313_0000",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -65,6 +64,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Education\CS\projetcs\crystalloids\PlanningPoker" />
       <recent name="D:\Education\CS\projetcs\crystalloids\PlanningPoker\src" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="gcfv2.ui" />
     </key>
   </component>
   <component name="RunManager" selected="Cloud Code: Cloud Run.Local">
@@ -202,7 +204,8 @@
       <workItem from="1709726928554" duration="4600000" />
       <workItem from="1709732790803" duration="5790000" />
       <workItem from="1710151362349" duration="864000" />
-      <workItem from="1710152237031" duration="6133000" />
+      <workItem from="1710152237031" duration="7060000" />
+      <workItem from="1710327732351" duration="129000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -380,7 +383,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710158276706</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="ui test">
+      <option name="closed" value="true" />
+      <created>1710158797908</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1710158797908</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

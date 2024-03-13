@@ -107,7 +107,7 @@
             <configuration>
                 <archive>
                     <manifest>
-                        <mainClass>gcfv2.ui.MyServlet</mainClass>
+                        <mainClass>gcfv2.ui.MainView</mainClass>
                     </manifest>
                 </archive>
             </configuration>
