@@ -98,6 +98,14 @@
     <build>
         <plugins>
             <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-war-plugin</artifactId>
+                <version>3.3.1</version>
+                <configuration>
+                    <!-- Optional configuration -->
+                </configuration>
+            </plugin>
+            <plugin>
                 <groupId>com.google.cloud.tools</groupId>
                 <artifactId>appengine-maven-plugin</artifactId>
                 <version>2.4.3</version>
@@ -106,22 +114,9 @@
                     <version>2</version>
                 </configuration>
             </plugin>
-
-        <plugin>
-            <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-jar-plugin</artifactId>
-            <version>3.3.0</version>
-            <configuration>
-<!--                <archive>-->
-<!--                    <manifest>-->
-<!--                        <mainClass>gcfv2.ui.MainView</mainClass>-->
-<!--                    </manifest>-->
-<!--                </archive>-->
-            </configuration>
-        </plugin>
-
         </plugins>
     </build>
+
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
