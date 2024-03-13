@@ -1,1 +1,1 @@
-runtime: javaenv: flexruntime_config:  # Specify Java runtime version  jdk: openjdk17handlers:- url: /.*  script: this field is required, but ignored
+runtime: java11

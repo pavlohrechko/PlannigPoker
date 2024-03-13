@@ -82,7 +82,7 @@
                 <version>2.4.3</version>
                 <configuration>
                     <projectId>planningpoker-416220</projectId>
-                    <version>2</version>
+                    <version>3</version>
                 </configuration>
             </plugin>
         </plugins>
